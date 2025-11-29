@@ -8,3 +8,8 @@ langgraph
 pandas
 playwright
 google-genai
+pytesseract
+pillow
+matplotlib
+scikit-learn
+numpy
