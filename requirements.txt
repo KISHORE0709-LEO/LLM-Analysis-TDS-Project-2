@@ -14,3 +14,13 @@ pillow
 matplotlib
 scikit-learn
 numpy
+speechrecognition
+pydub
+geopy
+haversine
+networkx
+fuzzywuzzy
+python-levenshtein
+duckdb
+pypdf
+scipy
