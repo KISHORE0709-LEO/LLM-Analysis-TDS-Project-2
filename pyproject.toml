@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "tdsproject2"
 version = "0.1.0"
@@ -36,3 +40,6 @@ dependencies = [
     "scipy>=1.16.3",
     "haversine>=2.9.0",
 ]
+
+[tool.setuptools]
+py-modules = ["agent", "main", "shared_store"]
