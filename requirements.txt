@@ -7,3 +7,4 @@ langchain-google-genai
 langgraph
 pandas
 playwright
+google-genai
